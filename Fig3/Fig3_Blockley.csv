@@ -1,0 +1,10 @@
+strainID,serovar,serovar:colour,Source,Source:colour,Human_material,Human_material:colour,Food_material,Food_material:colour,Animal_material,Animal_material:colour,ESBL_AmpC,ESBL_AmpC:color,Fosfomycin_gene,Fosfomycin_gene:colour,tet_gene,tet_gene:colour,Trimethoprim_gene,Trimethoprim_gene:colour,Kanamycin_gene,Kanamycin_gene:colour,Macrolide_gene,Macrolide_gene:colour,Isolation year,Isolation year:colour
+1912076,Blockley,#FFCCFF,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,0,#CCCCCC,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2019,#D7E7AF
+2012059,Blockley,#FFCCFF,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,0,#CCCCCC,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2020,#A5D4AD
+1812063,Blockley,#FFCCFF,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,0,#CCCCCC,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,None,#CCCCCC,2018,#FFF9B1
+1812059,Blockley,#FFCCFF,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,blaCTX-M-15,#FFA500,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2018,#FFF9B1
+1812047,Blockley,#FFCCFF,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,blaCTX-M-15,#FFA500,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2018,#FFF9B1
+1811072,Blockley,#FFCCFF,human,#FF0000,h_unknown,#F5B090,None,#CCCCCC,None,#CCCCCC,blaCTX-M-15,#FFA500,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2018,#FFF9B1
+1812071,Blockley,#FFCCFF,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,0,#CCCCCC,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2018,#FFF9B1
+1711079,Blockley,#FFCCFF,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,blaCTX-M-15,#FFA500,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2017,#F5B090
+1911085,Blockley,#FFCCFF,human,#FF0000,h_unknown,#F5B090,None,#CCCCCC,None,#CCCCCC,blaCTX-M-15,#FFA500,None,#CCCCCC,tet(A),#67991C,None,#CCCCCC,aph(3')-Ia,#00965C,mph(A),#1D2088,2019,#D7E7AF

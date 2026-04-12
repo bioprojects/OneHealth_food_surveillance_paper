@@ -1,0 +1,48 @@
+strainID,CC_or_ST,Source,Source:color,tet_gene,tet_gene:color,Quinolone_gene,Quinolone_gene:color,macrolide_gene,macrolide_gene:color,aminoglycoside_gene,aminoglycoside_gene:color
+30-CC-P-66-1-11,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,23S_A2075G,#78BCFF,"aadE-Cc,rpsL_K88R",#60FA00
+SC29,,Chicken_meat,#00FF00,tet(O)*,#67991C,gyrA_T86I,#916523,23S_A2075G,#78BCFF,aadE*,#FF0080
+30-CC-P-78-1-16,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,23S_A2075G,#78BCFF,rpsL_K88Q,#FF0080
+SC30,,Chicken_meat,#00FF00,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,None,#CCCCCC
+30-CC-P-62-1-8,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,aadE-Cc,#00965C
+30-CC-P-102-1-26,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,aadE-Cc,#00965C
+HP12529,ST-828 complex,Human,#FF0000,tet(O)*,#67991C,gyrA_T86I,#916523,23S_A2075G,#78BCFF,aadE-Cc,#00965C
+30-CC-P-36-1-2,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,aadE-Cc,#00965C
+HP12600,,Human,#FF0000,tet(O)*,#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC
+30-CC-P-88-1-20,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,None,#CCCCCC
+30-CC-P-90-1-21,,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,23S_A2075G,#78BCFF,"rpsL_K43R,rpsL_K88R",#60FA00
+30-CC-P-110-1-33,ST-828 complex,Pig_stool,#CFA7CD,None,#CCCCCC,None,#CCCCCC,23S_A2075G,#78BCFF,None,#CCCCCC
+30-CC-P-48-1-6,,Pig_stool,#CFA7CD,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,aadE-Cc,#00965C
+30-CC-P-65-1-10,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,None,#CCCCCC,None,#CCCCCC,"aadE-Cc,rpsL_K88R",#60FA00
+30-CC-P-113-1-34,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,None,#CCCCCC,None,#CCCCCC,aadE-Cc,#00965C
+30-CC-P-103-1-27,ST-828 complex,Pig_stool,#CFA7CD,tet(O),#67991C,None,#CCCCCC,None,#CCCCCC,aadE-Cc,#00965C
+HP12577,ST-828 complex,Human,#FF0000,None,#CCCCCC,gyrA_T86I,#916523,50S_L22_A103V,#125699,None,#CCCCCC
+HP12188,ST-828 complex,Human,#FF0000,None,#CCCCCC,None,#CCCCCC,50S_L22_A103V,#125699,None,#CCCCCC
+HP12634,ST-828 complex,Human,#FF0000,None,#CCCCCC,gyrA_T86I,#916523,50S_L22_A103V,#125699,None,#CCCCCC
+SC18,ST-828 complex,Chicken_meat,#00FF00,None,#CCCCCC,gyrA_T86I,#916523,50S_L22_A103V,#125699,rpsL_K43R,#FF0080
+HP12641,ST-828 complex,Human,#FF0000,None,#CCCCCC,None,#CCCCCC,50S_L22_A103V,#125699,None,#CCCCCC
+HP12153,,Human,#FF0000,None,#CCCCCC,gyrA_T86I,#916523,23S_A2075G,#78BCFF,None,#CCCCCC
+HP12162,ST9436,Human,#FF0000,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC
+HP12518,ST-828 complex,Human,#FF0000,tet(O/M/O),#ADFF2F,gyrA_T86I,#916523,None,#CCCCCC,aph(3')-IIIa,#FF0080
+HP12540,ST-828 complex,Human,#FF0000,tet(O/M/O)^,#ADFF2F,gyrA_T86I,#916523,None,#CCCCCC,aph(3')-IIIa,#FF0080
+HP12580,ST-828 complex,Human,#FF0000,tet(O)*,#67991C,gyrA_T86I,#916523,23S_A2075G,#78BCFF,aadE-Cc,#00965C
+30-CC-P-109-1-32,,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,50S_L22_A103V,#125699,"aadE-Cc,aph(3')-IIIa",#FF0080
+30-CC-P-70-1-13,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,None,#CCCCCC,None,#CCCCCC,"rpsL_K43R,rpsL_K88R,aadE-Cc^",#60FA00
+30-CC-P-47-1-5,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,aadE-Cc,#00965C
+SC22,ST-828 complex,Chicken_meat,#00FF00,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,aadE-Cc,#00965C
+30-CC-P-71-1-14,,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,50S_L22_A103V,#125699,None,#CCCCCC
+SC42,ST-828 complex,Chicken_meat,#00FF00,None,#CCCCCC,None,#CCCCCC,50S_L22_A103V,#125699,None,#CCCCCC
+SC40,ST-828 complex,Chicken_meat,#00FF00,None,#CCCCCC,None,#CCCCCC,50S_L22_A103V,#125699,None,#CCCCCC
+30-CC-P-63-1-9,,Pig_stool,#CFA7CD,tet(O),#67991C,gyrA_T86I,#916523,None,#CCCCCC,None,#CCCCCC
+SC9,ST-828 complex,Chicken_meat,#00FF00,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,"ant(6)-Ia^,aph(3')-IIIa",#FF0080
+HP12217,ST-828 complex,Human,#FF0000,tet(O)*,#67991C,gyrA_T86I,#916523,50S_L22_A103V,#125699,"aadE-Cc,aph(3')-IIIa",#FF0080
+30-CC-P-94-1-22,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC
+SC12,ST-828 complex,Chicken_meat,#00FF00,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,None,#CCCCCC
+30-CC-P-69-1-12,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,aadE-Cc,#00965C
+30-CC-P-37-1-1-3,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,23S_A2075G,#78BCFF,"rpsL_K43R,rpsL_K88R",#60FA00
+30-CC-P-114-1-35,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,None,#CCCCCC,None,#CCCCCC,aadE-Cc,#00965C
+SC50,,Chicken_meat,#00FF00,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,"ant(6)-Ia^,aph(3')-IIIa^",#FF0080
+30-CC-P-100-1-24,,Pig_stool,#CFA7CD,tet(O)*,#67991C,None,#CCCCCC,50S_L22_A103V,#125699,aadE-Cc,#00965C
+30-CC-P-34-1-1,,Pig_stool,#CFA7CD,None,#CCCCCC,gyrA_T86I,#916523,None,#CCCCCC,None,#CCCCCC
+30-CC-P-77-1-15,,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,None,#CCCCCC
+30-CC-P-101-1-25,ST-828 complex,Pig_stool,#CFA7CD,tet(O)*,#67991C,None,#CCCCCC,None,#CCCCCC,aadE-Cc,#00965C
+30-CC-P-104-1-28,,Pig_stool,#CFA7CD,tet(O)*,#67991C,gyrA_T86I,#916523,None,#CCCCCC,None,#CCCCCC

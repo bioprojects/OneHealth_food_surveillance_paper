@@ -1,0 +1,17 @@
+strainID,serovar,serovar:colour,Source,Source:colour,Human_material,Human_material:colour,Food_material,Food_material:colour,Animal_material,Animal_material:colour,ESBL_AmpC,ESBL_AmpC:color,Fosfomycin_gene,Fosfomycin_gene:colour,tet_gene,tet_gene:colour,Trimethoprim_gene,Trimethoprim_gene:colour,Kanamycin_gene,Kanamycin_gene:colour,Macrolide_gene,Macrolide_gene:colour,Isolation year,Isolation year:colour
+1911216,Agona,#0068B7,human,#FF0000,h_unknown,#F5B090,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2019,#D7E7AF
+2011158,Agona,#0068B7,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2020,#A5D4AD
+2011147,Agona,#0068B7,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A)*,#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2020,#A5D4AD
+1711224,Agona,#0068B7,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2017,#F5B090
+1711106,Agona,#0068B7,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2017,#F5B090
+1711361,Agona,#0068B7,human,#FF0000,h_unknown,#F5B090,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,dfrA5,#FF0080,None,#CCCCCC,mph(A)*,#1D2088,2017,#F5B090
+1911204,Agona,#0068B7,human,#FF0000,h_unknown,#F5B090,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2019,#D7E7AF
+1911201,Agona,#0068B7,human,#FF0000,h_unknown,#F5B090,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2019,#D7E7AF
+1711230,Agona,#0068B7,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2017,#F5B090
+1712001,Agona,#0068B7,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2017,#F5B090
+1911207,Agona,#0068B7,human,#FF0000,h_unknown,#F5B090,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2019,#D7E7AF
+2112105,Agona,#0068B7,food,#00FF00,None,#CCCCCC,f_imported chicken,#FFF100,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2021,#9FD9F6
+1912024,Agona,#0068B7,food,#00FF00,None,#CCCCCC,f_domestic chicken,#00FF00,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2019,#D7E7AF
+1711061,Agona,#0068B7,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,dfrA12,#78BCFF,aph(3')-Ia,#00965C,mef(B),#CE2CD4,2017,#F5B090
+1711062,Agona,#0068B7,human,#FF0000,h_others,#530000,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,dfrA12,#78BCFF,aph(3')-Ia,#00965C,mef(B),#CE2CD4,2017,#F5B090
+1711228,Agona,#0068B7,human,#FF0000,h_stool,#E60012,None,#CCCCCC,None,#CCCCCC,0,#CCCCCC,fosA7.2,#009955,tet(A),#67991C,None,#CCCCCC,None,#CCCCCC,None,#CCCCCC,2017,#F5B090
