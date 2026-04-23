@@ -1,0 +1,17 @@
+indID	ISCaje5-2	ISCco1-2	ISChh1-1	ISSag10-1	Tn5405-1
+mefinder_SC10_mge_sequences.fna	0	0	0	0	0
+mefinder_SC11_mge_sequences.fna	0	0	0	0	0
+mefinder_SC12_mge_sequences.fna	0	1	0	1	0
+mefinder_SC13_mge_sequences.fna	0	0	0	0	0
+mefinder_SC14_mge_sequences.fna	0	0	0	0	0
+mefinder_SC1_mge_sequences.fna	0	0	0	0	0
+mefinder_SC29_mge_sequences.fna	0	0	0	1	0
+mefinder_SC2_mge_sequences.fna	0	0	0	0	0
+mefinder_SC30_mge_sequences.fna	0	1	0	0	0
+mefinder_SC3_mge_sequences.fna	0	0	0	0	0
+mefinder_SC50_mge_sequences.fna	0	0	0	0	1
+mefinder_SC51_mge_sequences.fna	0	0	0	0	0
+mefinder_SC5_mge_sequences.fna	0	0	0	0	0
+mefinder_SC6_mge_sequences.fna	0	0	0	0	0
+mefinder_SC8_mge_sequences.fna	0	0	0	0	0
+mefinder_SC9_mge_sequences.fna	0	0	0	0	1

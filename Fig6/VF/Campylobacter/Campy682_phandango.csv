@@ -1,0 +1,683 @@
+strainID,species,dataset,year,major_serovar,host_3categories
+30-CJ-C-73-1-1-42,C. jejuni,NVAL_Cj_H30,2018,ST-443 complex,Animal
+30-CJ-C-67-1-1-38,C. jejuni,NVAL_Cj_H30,2018,ST-443 complex,Animal
+HP12229,C. jejuni,TMIPH_Cj_R3,2018,ST-443 complex,Human
+HP12192,C. jejuni,TMIPH_Cj_R3,2018,ST-443 complex,Human
+30-CJ-C-20-1-1-10,C. jejuni,NVAL_Cj_H30,2018,ST-443 complex,Animal
+HP12207,C. jejuni,TMIPH_Cj_R3,2018,ST-443 complex,Human
+HP12196,C. jejuni,TMIPH_Cj_R3,2018,ST-443 complex,Human
+HP12534,C. jejuni,TMIPH_Cj_R3,2021,ST-443 complex,Human
+R1-Cj-C-59,C. jejuni,NVAL_Cj_R1R2,2019,ST-443 complex,Animal
+R1-Cj-C-61,C. jejuni,NVAL_Cj_R1R2,2019,ST-443 complex,Animal
+HP12502,C. jejuni,TMIPH_Cj_R3,2021,ST-443 complex,Human
+30-CJ-C-18-2-1-8,C. jejuni,NVAL_Cj_H30,2018,ST-443 complex,Animal
+30-CJ-C-57-1-1-32,C. jejuni,NVAL_Cj_H30,2018,ST-443 complex,Animal
+R1-Cj-C-57,C. jejuni,NVAL_Cj_R1R2,2019,ST-443 complex,Animal
+R2-Cj-C-70,C. jejuni,NVAL_Cj_R1R2,2020,ST-443 complex,Animal
+HP12598,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+SC1,C. jejuni,NIHS_Cj_R5,2024,,Food
+30-CJ-C-53-1-1-26,C. jejuni,NVAL_Cj_H30,2018,ST-443 complex,Animal
+R1-Cj-C-42,C. jejuni,NVAL_Cj_R1R2,2019,ST-574 complex,Animal
+R2-Cj-C-92,C. jejuni,NVAL_Cj_R1R2,2020,ST-574 complex,Animal
+HP12210,C. jejuni,TMIPH_Cj_R3,2018,ST-460 complex,Human
+SC25,C. jejuni,NIHS_Cj_R5,2024,ST-460 complex,Food
+30-CJ-C-58-2-1-34,C. jejuni,NVAL_Cj_H30,2018,ST-460 complex,Animal
+HP12168,C. jejuni,TMIPH_Cj_R3,2018,ST-460 complex,Human
+SC24,C. jejuni,NIHS_Cj_R5,2024,ST-460 complex,Food
+R2-Cj-C-68,C. jejuni,NVAL_Cj_R1R2,2020,ST-460 complex,Animal
+HP12631,C. jejuni,TMIPH_Cj_R4-5,2023,ST-460 complex,Human
+HP12175,C. jejuni,TMIPH_Cj_R3,2018,ST-354 complex,Human
+R2-Cj-C-88,C. jejuni,NVAL_Cj_R1R2,2020,ST-354 complex,Animal
+HP12150,C. jejuni,TMIPH_Cj_R3,2018,ST-354 complex,Human
+30-CJ-C-39-1-1-19,C. jejuni,NVAL_Cj_H30,2018,,Animal
+HP12547,C. jejuni,TMIPH_Cj_R4-5,2022,ST-354 complex,Human
+HP12163,C. jejuni,TMIPH_Cj_R3,2018,ST-354 complex,Human
+HP12161,C. jejuni,TMIPH_Cj_R3,2018,ST-354 complex,Human
+HP12513,C. jejuni,TMIPH_Cj_R3,2021,,Human
+HP12526,C. jejuni,TMIPH_Cj_R3,2021,ST-354 complex,Human
+R2-Cj-C-32,C. jejuni,NVAL_Cj_R1R2,2020,ST-354 complex,Animal
+R1-Cj-C-18,C. jejuni,NVAL_Cj_R1R2,2019,ST-354 complex,Animal
+R2-Cj-C-17,C. jejuni,NVAL_Cj_R1R2,2020,ST-354 complex,Animal
+30-CJ-C-141-1-1-74,C. jejuni,NVAL_Cj_H30,2018,ST-354 complex,Animal
+HP12494,C. jejuni,TMIPH_Cj_R3,2021,ST-354 complex,Human
+HP12649,C. jejuni,TMIPH_Cj_R4-5,2023,ST-354 complex,Human
+SC23,C. jejuni,NIHS_Cj_R5,2024,,Food
+SC56,C. jejuni,NIHS_Cj_R5,2024,,Food
+SC37,C. jejuni,NIHS_Cj_R5,2024,,Food
+30-CJ-C-83-1-1-49,C. jejuni,NVAL_Cj_H30,2018,ST-354 complex,Animal
+R2-Cj-C-37,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+HP12241,C. jejuni,TMIPH_Cj_R3,2018,ST2328,Human
+HP12507,C. jejuni,TMIPH_Cj_R3,2021,ST-353 complex,Human
+C-2-1-1-86,C. jejuni,NVAL_Cj_R3,2021,ST-353 complex,Animal
+HP12567,C. jejuni,TMIPH_Cj_R4-5,2022,ST-353 complex,Human
+HP12174,C. jejuni,TMIPH_Cj_R3,2018,ST-353 complex,Human
+HP12602,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+HP12604,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+SC7,C. jejuni,NIHS_Cj_R5,2024,,Food
+30-CJ-C-70-2-1-41,C. jejuni,NVAL_Cj_H30,2018,,Animal
+HP12214,C. jejuni,TMIPH_Cj_R3,2018,ST-353 complex,Human
+HP12543,C. jejuni,TMIPH_Cj_R4-5,2022,ST-464 complex,Human
+SC48,C. jejuni,NIHS_Cj_R5,2024,ST-607 complex,Food
+30-CJ-C-121-2-1-65,C. jejuni,NVAL_Cj_H30,2018,ST-607 complex,Animal
+HP12514,C. jejuni,TMIPH_Cj_R3,2021,ST-607 complex,Human
+SC5,C. jejuni,NIHS_Cj_R5,2024,ST-52 complex,Food
+SC31,C. jejuni,NIHS_Cj_R5,2024,ST-52 complex,Food
+SC21,C. jejuni,NIHS_Cj_R5,2024,ST-52 complex,Food
+HP12195,C. jejuni,TMIPH_Cj_R3,2018,ST-464 complex,Human
+HP12541,C. jejuni,TMIPH_Cj_R3,2021,ST-464 complex,Human
+R2-Cj-C-27,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+HP12193,C. jejuni,TMIPH_Cj_R3,2018,ST-464 complex,Human
+R2-Cj-C-78,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+HP12194,C. jejuni,TMIPH_Cj_R3,2018,ST-464 complex,Human
+30-CJ-C-79-1-1-47,C. jejuni,NVAL_Cj_H30,2018,ST-464 complex,Animal
+R2-Cj-C-86,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+C-5-1-1-100,C. jejuni,NVAL_Cj_R3,2021,ST5720,Animal
+C-1-2-1-94,C. jejuni,NVAL_Cj_R3,2021,ST5720,Animal
+C-2-1-1-95,C. jejuni,NVAL_Cj_R3,2021,ST5720,Animal
+HP12208,C. jejuni,TMIPH_Cj_R3,2018,ST-607 complex,Human
+HP12144,C. jejuni,TMIPH_Cj_R3,2018,ST4258,Human
+SC6,C. jejuni,NIHS_Cj_R5,2024,ST11195,Food
+HP12191,C. jejuni,TMIPH_Cj_R3,2018,,Human
+HP12189,C. jejuni,TMIPH_Cj_R3,2018,,Human
+30-CJ-C-44-1-1-24,C. jejuni,NVAL_Cj_H30,2018,ST-574 complex,Animal
+30-CJ-C-42-2-1-23,C. jejuni,NVAL_Cj_H30,2018,ST-574 complex,Animal
+HP12638,C. jejuni,TMIPH_Cj_R4-5,2023,ST-353 complex,Human
+HP12244,C. jejuni,TMIPH_Cj_R3,2018,ST10448,Human
+HP12152,C. jejuni,TMIPH_Cj_R3,2018,ST-574 complex,Human
+HP12497,C. jejuni,TMIPH_Cj_R3,2021,ST-52 complex,Human
+HP12213,C. jejuni,TMIPH_Cj_R3,2018,ST-607 complex,Human
+SC27,C. jejuni,NIHS_Cj_R5,2024,ST-607 complex,Food
+HP12164,C. jejuni,TMIPH_Cj_R3,2018,ST-607 complex,Human
+R2-Cj-C-65,C. jejuni,NVAL_Cj_R1R2,2020,ST-607 complex,Animal
+R1-Cj-C-46,C. jejuni,NVAL_Cj_R1R2,2019,ST-607 complex,Animal
+R2-Cj-C-23,C. jejuni,NVAL_Cj_R1R2,2020,ST8071,Animal
+SC39,C. jejuni,NIHS_Cj_R5,2024,ST-353 complex,Food
+SC33,C. jejuni,NIHS_Cj_R5,2024,ST-353 complex,Food
+HP12614,C. jejuni,TMIPH_Cj_R4-5,2023,ST-353 complex,Human
+HP12504,C. jejuni,TMIPH_Cj_R3,2021,ST-257 complex,Human
+HP12224,C. jejuni,TMIPH_Cj_R3,2018,ST-257 complex,Human
+HP12199,C. jejuni,TMIPH_Cj_R3,2018,ST-257 complex,Human
+R1-Cj-C-40,C. jejuni,NVAL_Cj_R1R2,2019,ST-257 complex,Animal
+R1-Cj-B-104,C. jejuni,NVAL_Cj_R1R2,2019,ST-257 complex,Animal
+R2-Cj-B-94,C. jejuni,NVAL_Cj_R1R2,2020,ST-257 complex,Animal
+R1-Cj-B-9,C. jejuni,NVAL_Cj_R1R2,2019,ST-257 complex,Animal
+HP12613,C. jejuni,TMIPH_Cj_R4-5,2023,ST-257 complex,Human
+R2-Cj-B-61,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-92,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-42,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+30-CJ-B-99-1-11,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R2-Cj-B-14,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-79,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+30-CJ-B-203-1-36,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R2-Cj-B-11,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12599,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+30-CJ-B-63-1-4,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R2-Cj-B-103,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-C-36,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-125,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-27,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-C-44,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12623,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+R2-Cj-B-101,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-17,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-97,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-83,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12523,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+R1-Cj-B-101,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-91,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-40,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-4,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+B-1-1-99,C. jejuni,NVAL_Cj_R3,2021,,Animal
+R2-Cj-B-71,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-68,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-88,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12636,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+R1-Cj-B-65,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+B-1-1-45,C. jejuni,NVAL_Cj_R3,2021,ST-21 complex,Animal
+R2-Cj-B-38,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-38,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-100,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-59,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-89,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-99,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-67,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-68,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-C-29,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-90,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-97,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-22,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-103,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-82,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+30-CJ-B-202-1-35,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R2-Cj-C-46,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-49,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-48,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-52,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12592,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+B-43-1-87,C. jejuni,NVAL_Cj_R3,2021,ST-21 complex,Animal
+R1-Cj-B-41,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-70,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-53,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12552,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+R2-Cj-B-44,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-85,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+B-32-1-76,C. jejuni,NVAL_Cj_R3,2021,ST-21 complex,Animal
+R1-Cj-B-105,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12158,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12236,C. jejuni,TMIPH_Cj_R3,2018,ST-61 complex,Human
+HP12655,C. jejuni,TMIPH_Cj_R4-5,2023,ST-61 complex,Human
+R1-Cj-B-53,C. jejuni,NVAL_Cj_R1R2,2019,ST-61 complex,Animal
+R2-Cj-C-90,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+SC41,C. jejuni,NIHS_Cj_R5,2024,ST-61 complex,Food
+R1-Cj-B-78,C. jejuni,NVAL_Cj_R1R2,2019,ST-61 complex,Animal
+R1-Cj-B-10,C. jejuni,NVAL_Cj_R1R2,2019,ST-61 complex,Animal
+R2-Cj-B-65,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+B-43-1-43,C. jejuni,NVAL_Cj_R3,2021,ST-61 complex,Animal
+HP12216,C. jejuni,TMIPH_Cj_R3,2018,ST-61 complex,Human
+HP12215,C. jejuni,TMIPH_Cj_R3,2018,ST-61 complex,Human
+R2-Cj-B-32,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+R2-Cj-B-51,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+R1-Cj-B-62,C. jejuni,NVAL_Cj_R1R2,2019,ST-61 complex,Animal
+B-29-1-29,C. jejuni,NVAL_Cj_R3,2021,ST-61 complex,Animal
+R2-Cj-B-25,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+R2-Cj-B-18,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+R1-Cj-B-50,C. jejuni,NVAL_Cj_R1R2,2019,ST-61 complex,Animal
+30-CJ-B-204-1-37,C. jejuni,NVAL_Cj_H30,2018,ST-61 complex,Animal
+R2-Cj-B-116,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+HP12248,C. jejuni,TMIPH_Cj_R3,2018,ST-61 complex,Human
+R1-Cj-B-57,C. jejuni,NVAL_Cj_R1R2,2019,ST-61 complex,Animal
+R2-Cj-B-1,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+R2-Cj-B-77,C. jejuni,NVAL_Cj_R1R2,2020,ST-61 complex,Animal
+R2-Cj-B-15,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-96,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-59,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-29,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-116,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-98,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-74,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-54,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+C-10-1-1-109,C. jejuni,NVAL_Cj_R3,2021,ST-21 complex,Animal
+30-CJ-C-55-1-1-28,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+30-CJ-B-208-1-40,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R1-Cj-C-32,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-C-38,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12225,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12533,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12515,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12528,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+30-CJ-B-233-1-45,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+30-CJ-B-163-1-24,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R2-Cj-B-31,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-19,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-3,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-13,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-1,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-72,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-79,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-17,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-C-40,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-C-34,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-33,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+SC13,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+R1-Cj-B-95,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-24,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-109,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-90,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12646,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+SC46,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+R2-Cj-B-80,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-C-42,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-28,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-72,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-63,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+30-CJ-B-243-1-49,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R1-Cj-B-80,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12545,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+R2-Cj-B-78,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12589,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+R2-Cj-B-76,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-36,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-95,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-102,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-61,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-14,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-43,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-56,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-75,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-109,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-117,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+30-CJ-B-197-1-32,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+30-CJ-B-198-1-33,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R1-Cj-B-24,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+30-CJ-B-213-1-41,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+HP12503,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+R1-Cj-B-11,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-B-5,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12535,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12170,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12219,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+R1-Cj-B-34,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12622,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12653,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12564,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12511,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+SC32,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+HP12633,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12151,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12148,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12140,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+R2-Cj-C-19,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-77,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+SC45,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+HP12501,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12223,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+R1-Cj-C-65,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-C-67,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12155,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+30-CJ-C-22-2-1-14,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+R2-Cj-C-21,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-C-14,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+30-CJ-C-7-1-1-1,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+30-CJ-C-38-1-1-17,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+HP12156,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12166,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12154,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12185,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12652,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+R2-Cj-C-50,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-69,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R2-Cj-C-48,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12578,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12637,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12575,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+R2-Cj-C-52,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+C-2-1-1-19,C. jejuni,NVAL_Cj_R3,2021,ST-21 complex,Animal
+HP12591,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12629,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+R1-Cj-C-44,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-C-38,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+30-CJ-C-170-1-1-83,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+30-CJ-C-169-1-1-81,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+30-CJ-C-124-1-1-67,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+HP12594,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12172,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12147,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12197,C. jejuni,TMIPH_Cj_R3,2018,,Human
+HP12617,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12198,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12141,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12142,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12550,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12549,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12608,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12574,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12612,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12553,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12143,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12651,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12642,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12499,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12605,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12621,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+SC2,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+SC53,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+HP12615,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12561,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12635,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12583,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+SC11,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+HP12565,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+SC44,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+HP12590,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+R1-Cj-C-16,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12539,C. jejuni,TMIPH_Cj_R3,2021,,Human
+C-1-1-1-7,C. jejuni,NVAL_Cj_R3,2021,ST-464 complex,Animal
+C-2-2-1-38,C. jejuni,NVAL_Cj_R3,2021,ST-464 complex,Animal
+HP12200,C. jejuni,TMIPH_Cj_R3,2018,,Human
+SC36,C. jejuni,NIHS_Cj_R5,2024,ST-464 complex,Food
+30-CJ-C-84-1-1-51,C. jejuni,NVAL_Cj_H30,2018,ST-464 complex,Animal
+HP12619,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+HP12645,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+HP12587,C. jejuni,TMIPH_Cj_R4-5,2022,,Human
+HP12618,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+HP12624,C. jejuni,TMIPH_Cj_R4-5,2023,ST4622,Human
+SC38,C. jejuni,NIHS_Cj_R5,2024,ST4622,Food
+HP12542,C. jejuni,TMIPH_Cj_R4-5,2022,ST4622,Human
+R1-Cj-C-55,C. jejuni,NVAL_Cj_R1R2,2019,ST-464 complex,Animal
+R2-Cj-C-74,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+30-CJ-C-147-2-1-76,C. jejuni,NVAL_Cj_H30,2018,,Animal
+C-4-1-1-90,C. jejuni,NVAL_Cj_R3,2021,ST-464 complex,Animal
+30-CJ-C-21-1-1-12,C. jejuni,NVAL_Cj_H30,2018,ST-464 complex,Animal
+R2-Cj-C-79,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+R2-Cj-C-81,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+R2-Cj-C-84,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+R2-Cj-C-83,C. jejuni,NVAL_Cj_R1R2,2020,ST-464 complex,Animal
+SC49,C. jejuni,NIHS_Cj_R5,2024,ST-464 complex,Food
+R2-Cj-C-66,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+HP12560,C. jejuni,TMIPH_Cj_R4-5,2022,,Human
+HP12593,C. jejuni,TMIPH_Cj_R4-5,2022,ST-21 complex,Human
+HP12492,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12536,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12519,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+HP12495,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+R1-Cj-C-63,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+30-CJ-C-10-1-1-4,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+30-CJ-C-23-1-1-15,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+HP12247,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12233,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12221,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12176,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12183,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12220,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12648,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+HP12516,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+R2-Cj-C-94,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-C-96,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12601,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+R2-Cj-C-76,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R2-Cj-B-128,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+30-CJ-B-102-1-12,C. jejuni,NVAL_Cj_H30,2018,ST-21 complex,Animal
+HP12520,C. jejuni,TMIPH_Cj_R3,2021,ST-21 complex,Human
+R2-Cj-B-62,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12603,C. jejuni,TMIPH_Cj_R4-5,2023,ST-21 complex,Human
+R2-Cj-B-84,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+HP12227,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+HP12230,C. jejuni,TMIPH_Cj_R3,2018,ST-21 complex,Human
+SC8,C. jejuni,NIHS_Cj_R5,2024,ST-21 complex,Food
+R2-Cj-B-127,C. jejuni,NVAL_Cj_R1R2,2020,ST-21 complex,Animal
+R1-Cj-B-42,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+R1-Cj-B-44,C. jejuni,NVAL_Cj_R1R2,2019,ST-21 complex,Animal
+HP12562,C. jejuni,TMIPH_Cj_R4-5,2022,,Human
+HP12584,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+R2-Cj-C-9,C. jejuni,NVAL_Cj_R1R2,2020,ST-48 complex,Animal
+HP12506,C. jejuni,TMIPH_Cj_R3,2021,ST-48 complex,Human
+HP12238,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12493,C. jejuni,TMIPH_Cj_R3,2021,ST-48 complex,Human
+HP12228,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12544,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+HP12607,C. jejuni,TMIPH_Cj_R4-5,2023,ST-48 complex,Human
+HP12566,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+HP12588,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+HP12551,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+HP12531,C. jejuni,TMIPH_Cj_R3,2021,ST-48 complex,Human
+HP12537,C. jejuni,TMIPH_Cj_R3,2021,ST-48 complex,Human
+SC54,C. jejuni,NIHS_Cj_R5,2024,ST-48 complex,Food
+SC55,C. jejuni,NIHS_Cj_R5,2024,ST-48 complex,Food
+R1-Cj-C-9,C. jejuni,NVAL_Cj_R1R2,2019,ST-48 complex,Animal
+HP12186,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+R2-Cj-B-86,C. jejuni,NVAL_Cj_R1R2,2020,ST-48 complex,Animal
+R2-Cj-C-7,C. jejuni,NVAL_Cj_R1R2,2020,ST-48 complex,Animal
+R2-Cj-C-5,C. jejuni,NVAL_Cj_R1R2,2020,ST-48 complex,Animal
+R1-Cj-C-5,C. jejuni,NVAL_Cj_R1R2,2019,ST-48 complex,Animal
+HP12505,C. jejuni,TMIPH_Cj_R3,2021,ST-48 complex,Human
+R2-Cj-C-11,C. jejuni,NVAL_Cj_R1R2,2020,ST-48 complex,Animal
+HP12571,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+R1-Cj-C-7,C. jejuni,NVAL_Cj_R1R2,2019,ST-48 complex,Animal
+HP12173,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12179,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12206,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+30-CJ-C-93-1-1-55,C. jejuni,NVAL_Cj_H30,2018,ST-48 complex,Animal
+HP12222,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12211,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12243,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12579,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+SC58,C. jejuni,NIHS_Cj_R5,2024,ST-48 complex,Food
+HP12576,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+HP12628,C. jejuni,TMIPH_Cj_R4-5,2023,ST-48 complex,Human
+HP12242,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12139,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+30-CJ-C-19-2-1-9,C. jejuni,NVAL_Cj_H30,2018,ST-48 complex,Animal
+30-CJ-C-56-1-1-30,C. jejuni,NVAL_Cj_H30,2018,ST-48 complex,Animal
+30-CJ-C-40-1-1-21,C. jejuni,NVAL_Cj_H30,2018,ST-48 complex,Animal
+30-CJ-C-123-2-1-66,C. jejuni,NVAL_Cj_H30,2018,ST-48 complex,Animal
+HP12218,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12226,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+30-CJ-C-128-1-1-73,C. jejuni,NVAL_Cj_H30,2018,ST-48 complex,Animal
+30-CJ-C-9-2-1-3,C. jejuni,NVAL_Cj_H30,2018,ST-48 complex,Animal
+HP12232,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12231,C. jejuni,TMIPH_Cj_R3,2018,ST-48 complex,Human
+HP12563,C. jejuni,TMIPH_Cj_R4-5,2022,ST-48 complex,Human
+R1-Cj-B-51,C. jejuni,NVAL_Cj_R1R2,2019,ST922,Animal
+R2-Cj-B-57,C. jejuni,NVAL_Cj_R1R2,2020,ST922,Animal
+R2-Cj-B-66,C. jejuni,NVAL_Cj_R1R2,2020,ST922,Animal
+R2-Cj-B-7,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+R2-Cj-B-75,C. jejuni,NVAL_Cj_R1R2,2020,ST922,Animal
+30-CJ-B-93-1-10,C. jejuni,NVAL_Cj_H30,2018,ST922,Animal
+R1-Cj-B-8,C. jejuni,NVAL_Cj_R1R2,2019,ST922,Animal
+HP12654,C. jejuni,TMIPH_Cj_R4-5,2023,ST922,Human
+R2-Cj-B-13,C. jejuni,NVAL_Cj_R1R2,2020,ST922,Animal
+HP12145,C. jejuni,TMIPH_Cj_R3,2018,ST922,Human
+30-CJ-B-24-1-1-2,C. jejuni,NVAL_Cj_H30,2018,ST11671,Animal
+R1-Cj-B-127,C. jejuni,NVAL_Cj_R1R2,2019,ST11671,Animal
+HP12209,C. jejuni,TMIPH_Cj_R3,2018,,Human
+R1-Cj-B-25,C. jejuni,NVAL_Cj_R1R2,2019,ST922,Animal
+30-CJ-B-150-1-20,C. jejuni,NVAL_Cj_H30,2018,ST922,Animal
+30-CJ-B-207-1-39,C. jejuni,NVAL_Cj_H30,2018,ST922,Animal
+HP12532,C. jejuni,TMIPH_Cj_R3,2021,ST922,Human
+R1-Cj-B-6,C. jejuni,NVAL_Cj_R1R2,2019,ST922,Animal
+R1-Cj-B-100,C. jejuni,NVAL_Cj_R1R2,2019,ST922,Animal
+R2-Cj-B-4,C. jejuni,NVAL_Cj_R1R2,2020,ST922,Animal
+R1-Cj-B-15,C. jejuni,NVAL_Cj_R1R2,2019,ST922,Animal
+HP12581,C. jejuni,TMIPH_Cj_R4-5,2022,ST922,Human
+HP12558,C. jejuni,TMIPH_Cj_R4-5,2022,ST922,Human
+R2-Cj-B-119,C. jejuni,NVAL_Cj_R1R2,2020,ST922,Animal
+HP12559,C. jejuni,TMIPH_Cj_R4-5,2022,ST922,Human
+HP12643,C. jejuni,TMIPH_Cj_R4-5,2023,ST922,Human
+R1-Cj-B-32,C. jejuni,NVAL_Cj_R1R2,2019,ST922,Animal
+R1-Cj-B-31,C. jejuni,NVAL_Cj_R1R2,2019,,Animal
+HP12496,C. jejuni,TMIPH_Cj_R3,2021,ST-658 complex,Human
+HP12616,C. jejuni,TMIPH_Cj_R4-5,2023,ST-658 complex,Human
+HP12508,C. jejuni,TMIPH_Cj_R3,2021,ST-658 complex,Human
+HP12570,C. jejuni,TMIPH_Cj_R4-5,2022,ST-658 complex,Human
+HP12165,C. jejuni,TMIPH_Cj_R3,2018,,Human
+HP12182,C. jejuni,TMIPH_Cj_R3,2018,ST8047,Human
+HP12204,C. jejuni,TMIPH_Cj_R3,2018,ST-49 complex,Human
+R2-Cj-B-67,C. jejuni,NVAL_Cj_R1R2,2020,ST1972,Animal
+SC34,C. jejuni,NIHS_Cj_R5,2024,,Food
+SC10,C. jejuni,NIHS_Cj_R5,2024,ST6085,Food
+R1-Cj-C-52,C. jejuni,NVAL_Cj_R1R2,2019,,Animal
+R2-Cj-C-59,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+R2-Cj-C-33,C. jejuni,NVAL_Cj_R1R2,2020,ST-692 complex,Animal
+R2-Cj-C-35,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+R1-Cj-C-22,C. jejuni,NVAL_Cj_R1R2,2019,ST-45 complex,Animal
+HP12509,C. jejuni,TMIPH_Cj_R3,2021,,Human
+R1-Cj-C-23,C. jejuni,NVAL_Cj_R1R2,2019,,Animal
+R1-Cj-C-20,C. jejuni,NVAL_Cj_R1R2,2019,,Animal
+R1-Cj-C-25,C. jejuni,NVAL_Cj_R1R2,2019,,Animal
+R1-Cj-C-3,C. jejuni,NVAL_Cj_R1R2,2019,,Animal
+30-CJ-C-37-2-1-16,C. jejuni,NVAL_Cj_H30,2018,ST-45 complex,Animal
+HP12149,C. jejuni,TMIPH_Cj_R3,2018,ST-45 complex,Human
+R2-Cj-C-56,C. jejuni,NVAL_Cj_R1R2,2020,ST-283 complex,Animal
+30-CJ-C-126-1-1-71,C. jejuni,NVAL_Cj_H30,2018,ST-283 complex,Animal
+R1-Cj-B-58,C. jejuni,NVAL_Cj_R1R2,2019,ST-283 complex,Animal
+C-7-1-1-82,C. jejuni,NVAL_Cj_R3,2021,ST-45 complex,Animal
+HP12160,C. jejuni,TMIPH_Cj_R3,2018,ST-45 complex,Human
+SC4,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+SC17,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+30-CJ-B-191-1-31,C. jejuni,NVAL_Cj_H30,2018,ST-45 complex,Animal
+SC47,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+SC3,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+SC20,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+SC14,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+R2-Cj-C-58,C. jejuni,NVAL_Cj_R1R2,2020,ST-45 complex,Animal
+SC35,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+SC26,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+HP12202,C. jejuni,TMIPH_Cj_R3,2018,ST-45 complex,Human
+HP12201,C. jejuni,TMIPH_Cj_R3,2018,ST-45 complex,Human
+SC15,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+R2-Cj-B-69,C. jejuni,NVAL_Cj_R1R2,2020,ST-45 complex,Animal
+30-CJ-B-87-1-9,C. jejuni,NVAL_Cj_H30,2018,ST-45 complex,Animal
+R1-Cj-B-98,C. jejuni,NVAL_Cj_R1R2,2019,ST-45 complex,Animal
+SC19,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+SC61,C. jejuni,NIHS_Cj_R5,2024,ST-45 complex,Food
+HP12548,C. jejuni,TMIPH_Cj_R4-5,2022,ST-45 complex,Human
+HP12203,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+R1-Cj-C-50,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+HP12639,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+HP12530,C. jejuni,TMIPH_Cj_R3,2021,ST-22 complex,Human
+R2-Cj-C-63,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+HP12650,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+R2-Cj-B-81,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+HP12237,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12246,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12630,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+HP12625,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+HP12620,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+R2-Cj-C-13,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+R1-Cj-C-11,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+HP12527,C. jejuni,TMIPH_Cj_R3,2021,ST-22 complex,Human
+B-1-1-1,C. jejuni,NVAL_Cj_R3,2021,ST-22 complex,Animal
+HP12632,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+HP12627,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+HP12557,C. jejuni,TMIPH_Cj_R4-5,2022,ST-22 complex,Human
+HP12167,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12178,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12644,C. jejuni,TMIPH_Cj_R4-5,2023,ST-22 complex,Human
+HP12180,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12184,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12525,C. jejuni,TMIPH_Cj_R3,2021,ST-22 complex,Human
+SC28,C. jejuni,NIHS_Cj_R5,2024,ST-22 complex,Food
+HP12568,C. jejuni,TMIPH_Cj_R4-5,2022,ST-22 complex,Human
+R1-Cj-C-48,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+HP12517,C. jejuni,TMIPH_Cj_R3,2021,ST-22 complex,Human
+HP12181,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+R1-Cj-B-7,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+HP12572,C. jejuni,TMIPH_Cj_R4-5,2022,ST-22 complex,Human
+R2-Cj-B-107,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+R2-Cj-B-115,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+R1-Cj-B-33,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+30-CJ-B-200-1-34,C. jejuni,NVAL_Cj_H30,2018,ST-22 complex,Animal
+R2-Cj-B-64,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+R1-Cj-B-26,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+HP12205,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12190,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12235,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12239,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12240,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12234,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+30-CJ-B-158-1-23,C. jejuni,NVAL_Cj_H30,2018,ST-22 complex,Animal
+R2-Cj-B-113,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+R1-Cj-B-23,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+R2-Cj-B-63,C. jejuni,NVAL_Cj_R1R2,2020,ST-22 complex,Animal
+SC59,C. jejuni,NIHS_Cj_R5,2024,ST-22 complex,Food
+HP12157,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12582,C. jejuni,TMIPH_Cj_R4-5,2022,ST-22 complex,Human
+HP12245,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+HP12171,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+R1-Cj-B-96,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+R1-Cj-B-19,C. jejuni,NVAL_Cj_R1R2,2019,ST-22 complex,Animal
+HP12177,C. jejuni,TMIPH_Cj_R3,2018,ST-22 complex,Human
+R1-Cj-B-12,C. jejuni,NVAL_Cj_R1R2,2019,ST-42 complex,Animal
+HP12596,C. jejuni,TMIPH_Cj_R4-5,2023,ST-42 complex,Human
+R2-Cj-B-23,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+30-CJ-B-106-1-13,C. jejuni,NVAL_Cj_H30,2018,ST-42 complex,Animal
+R2-Cj-B-120,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+HP12569,C. jejuni,TMIPH_Cj_R4-5,2022,ST-42 complex,Human
+R2-Cj-B-47,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-B-34,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-B-16,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+B-34-1-34,C. jejuni,NVAL_Cj_R3,2021,ST-42 complex,Animal
+30-CJ-B-76-1-6,C. jejuni,NVAL_Cj_H30,2018,ST-42 complex,Animal
+R2-Cj-B-30,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-C-3,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-C-1,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+30-CJ-B-111-1-14,C. jejuni,NVAL_Cj_H30,2018,ST-42 complex,Animal
+R2-Cj-B-39,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-B-114,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-B-87,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+30-CJ-B-72-1-5,C. jejuni,NVAL_Cj_H30,2018,ST-42 complex,Animal
+R2-Cj-B-50,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+HP12512,C. jejuni,TMIPH_Cj_R3,2021,ST-42 complex,Human
+30-CJ-B-248-1-51,C. jejuni,NVAL_Cj_H30,2018,ST-42 complex,Animal
+30-CJ-B-249-1-52,C. jejuni,NVAL_Cj_H30,2018,ST-42 complex,Animal
+HP12611,C. jejuni,TMIPH_Cj_R4-5,2023,ST-42 complex,Human
+30-CJ-B-236-1-46,C. jejuni,NVAL_Cj_H30,2018,ST-42 complex,Animal
+R2-Cj-B-12,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-B-6,C. jejuni,NVAL_Cj_R1R2,2020,ST-42 complex,Animal
+R2-Cj-B-125,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+HP12640,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+R2-Cj-B-9,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+HP12606,C. jejuni,TMIPH_Cj_R4-5,2023,,Human
+R2-Cj-B-110,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+HP12647,C. jejuni,TMIPH_Cj_R4-5,2023,ST-42 complex,Human
+R1-Cj-C-27,C. jejuni,NVAL_Cj_R1R2,2019,ST-42 complex,Animal
+R2-Cj-B-112,C. jejuni,NVAL_Cj_R1R2,2020,ST-403 complex,Animal
+R1-Cj-B-81,C. jejuni,NVAL_Cj_R1R2,2019,ST-403 complex,Animal
+R2-Cj-B-35,C. jejuni,NVAL_Cj_R1R2,2020,ST-403 complex,Animal
+HP12585,C. jejuni,TMIPH_Cj_R4-5,2022,ST-403 complex,Human
+HP12586,C. jejuni,TMIPH_Cj_R4-5,2022,ST-403 complex,Human
+R2-Cj-B-111,C. jejuni,NVAL_Cj_R1R2,2020,ST-403 complex,Animal
+R1-Cj-B-123,C. jejuni,NVAL_Cj_R1R2,2019,ST-403 complex,Animal
+R2-Cj-B-88,C. jejuni,NVAL_Cj_R1R2,2020,ST-403 complex,Animal
+R1-Cj-B-27,C. jejuni,NVAL_Cj_R1R2,2019,ST-403 complex,Animal
+R1-Cj-B-21,C. jejuni,NVAL_Cj_R1R2,2019,ST-403 complex,Animal
+HP12169,C. jejuni,TMIPH_Cj_R3,2018,ST-403 complex,Human
+HP12610,C. jejuni,TMIPH_Cj_R4-5,2023,ST9843,Human
+HP12609,C. jejuni,TMIPH_Cj_R4-5,2023,ST9843,Human
+HP12521,C. jejuni,TMIPH_Cj_R3,2021,ST6,Human
+HP12597,C. jejuni,TMIPH_Cj_R4-5,2023,ST-508 complex,Human
+R2-Cj-B-93,C. jejuni,NVAL_Cj_R1R2,2020,ST-508 complex,Animal
+HP12554,C. jejuni,TMIPH_Cj_R4-5,2022,ST-508 complex,Human
+HP12555,C. jejuni,TMIPH_Cj_R4-5,2022,ST-508 complex,Human
+HP12556,C. jejuni,TMIPH_Cj_R4-5,2022,ST-508 complex,Human
+R1-Cj-B-35,C. jejuni,NVAL_Cj_R1R2,2019,ST-508 complex,Animal
+R2-Cj-B-26,C. jejuni,NVAL_Cj_R1R2,2020,ST-508 complex,Animal
+R1-Cj-C-13,C. jejuni,NVAL_Cj_R1R2,2019,ST468,Animal
+R2-Cj-C-26,C. jejuni,NVAL_Cj_R1R2,2020,ST468,Animal
+R2-Cj-C-29,C. jejuni,NVAL_Cj_R1R2,2020,ST468,Animal
+R2-Cj-C-54,C. jejuni,NVAL_Cj_R1R2,2020,ST468,Animal
+SC51,C. jejuni,NIHS_Cj_R5,2024,ST2535,Food
+R1-Cj-B-86,C. jejuni,NVAL_Cj_R1R2,2019,,Animal
+R2-Cj-B-123,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+R2-Cj-B-74,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+R2-Cj-B-3,C. jejuni,NVAL_Cj_R1R2,2020,,Animal
+SC43,C. jejuni,NIHS_Cj_R5,2024,ST8281,Food
+HP12510,C. jejuni,TMIPH_Cj_R3,2021,ST4350,Human
+30-CJ-C-76-1-1-46,C. jejuni,NVAL_Cj_H30,2018,,Animal
+30-CC-P-66-1-11,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+SC29,C. coli,NIHS_Cj_R5,2024,,Food
+30-CC-P-78-1-16,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+SC30,C. coli,NIHS_Cj_R5,2024,,Food
+30-CC-P-62-1-8,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-102-1-26,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+HP12529,C. coli,TMIPH_Cj_R3,2021,ST-828 complex,Human
+30-CC-P-36-1-2,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+HP12600,C. coli,TMIPH_Cj_R4-5,2023,,Human
+30-CC-P-88-1-20,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-90-1-21,C. coli,NVAL_Cj_H30,2018,,Animal
+30-CC-P-110-1-33,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-48-1-6,C. coli,NVAL_Cj_H30,2018,,Animal
+30-CC-P-65-1-10,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-113-1-34,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-103-1-27,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+HP12577,C. coli,TMIPH_Cj_R4-5,2022,ST-828 complex,Human
+HP12188,C. coli,TMIPH_Cj_R3,2018,ST-828 complex,Human
+HP12634,C. coli,TMIPH_Cj_R4-5,2023,ST-828 complex,Human
+SC18,C. coli,NIHS_Cj_R5,2024,ST-828 complex,Food
+HP12641,C. coli,TMIPH_Cj_R4-5,2023,ST-828 complex,Human
+HP12153,C. coli,TMIPH_Cj_R3,2018,,Human
+HP12162,C. coli,TMIPH_Cj_R3,2018,ST9436,Human
+HP12518,C. coli,TMIPH_Cj_R3,2021,ST-828 complex,Human
+HP12540,C. coli,TMIPH_Cj_R3,2021,ST-828 complex,Human
+HP12580,C. coli,TMIPH_Cj_R4-5,2022,ST-828 complex,Human
+30-CC-P-109-1-32,C. coli,NVAL_Cj_H30,2018,,Animal
+30-CC-P-70-1-13,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-47-1-5,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+SC22,C. coli,NIHS_Cj_R5,2024,ST-828 complex,Food
+30-CC-P-71-1-14,C. coli,NVAL_Cj_H30,2018,,Animal
+SC42,C. coli,NIHS_Cj_R5,2024,ST-828 complex,Food
+SC40,C. coli,NIHS_Cj_R5,2024,ST-828 complex,Food
+30-CC-P-63-1-9,C. coli,NVAL_Cj_H30,2018,,Animal
+SC9,C. coli,NIHS_Cj_R5,2024,ST-828 complex,Food
+HP12217,C. coli,TMIPH_Cj_R3,2018,ST-828 complex,Human
+30-CC-P-94-1-22,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+SC12,C. coli,NIHS_Cj_R5,2024,ST-828 complex,Food
+30-CC-P-69-1-12,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-37-1-1-3,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-114-1-35,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+SC50,C. coli,NIHS_Cj_R5,2024,,Food
+30-CC-P-100-1-24,C. coli,NVAL_Cj_H30,2018,,Animal
+30-CC-P-34-1-1,C. coli,NVAL_Cj_H30,2018,,Animal
+30-CC-P-77-1-15,C. coli,NVAL_Cj_H30,2018,,Animal
+30-CC-P-101-1-25,C. coli,NVAL_Cj_H30,2018,ST-828 complex,Animal
+30-CC-P-104-1-28,C. coli,NVAL_Cj_H30,2018,,Animal
