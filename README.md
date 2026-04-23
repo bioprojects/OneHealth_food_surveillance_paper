@@ -9,11 +9,13 @@ The following figures and tables were created using the input files and the cust
   
 - Fig. 4: Phylogenetic trees constructed from core genomes of *Campylobacter* species isolates from human, food, and animal.
   
-- Supplementary Fig. 3: Core genome phylogenetic tree of *S*. Heldeiberg (N=248), including publicly available genomes lacking detailed sample origin information.
+- Fig. 6: Mobile genetic elements and virulence factors with differential frequencies in humans, food, and animal sectors.
   
-- Supplementary Fig. 4: Core genome phylogenetic tree of *S*. Schwarzengrund (N=853), including publicly available genomes lacking detailed sample origin information
+- Supplementary Fig. 3: Core genome phylogenetic tree of *S*. Heldeiberg (N=248), including publicly available genomes.
   
-- Supplementary Fig. 5: Core genome phylogenetic tree of *S*. Infantis (N=1061), including publicly available genomes lacking detailed sample origin information.
+- Supplementary Fig. 4: Core genome phylogenetic tree of *S*. Schwarzengrund (N=853), including publicly available genomes.
+  
+- Supplementary Fig. 5: Core genome phylogenetic tree of *S*. Infantis (N=1061), including publicly available genomes.
   
 - Supplementary Fig. 8: Expanded views (right) of parts of the core genome tree (left, same as fig. 4), where food-derived isolates (collected in 2023 or 2024) and human-derived isolates (collected in 2022 or 2023) exhibit lower divergence.
 
@@ -33,10 +35,9 @@ This page is written based on "Code and Software Submission Checklist" of Nature
 - R and Rstudio
 
   - packages
-    - None
+    - pheatmap
+    - eulerr
   
-
-
 
 
 
@@ -48,7 +49,7 @@ None for the custom codes.
 
 ## Instruction for use
 
-Please go to the directory of each figure and table, and upload the files or execute the code.
+Please go to the directory of each figure and table, and upload the files or execute the codes.
 
 
 ------
@@ -68,17 +69,29 @@ Please go to the directory of each figure and table, and upload the files or exe
 - The figure was created using Phandango by uploading nwk and csv files (https://jameshadfield.github.io/phandango/#/).
   - (expected run time: within a few seconds)
 
-##### Supplementary Fig. 3: Core genome phylogenetic tree of *S*. Heidelberg (N=248), including publicly available genomes lacking detailed sample origin information.
+##### Fig. 6: Mobile genetic elements and virulence factors with differential frequencies in humans, food, and animal sectors.
+
+- *Salmonella* MGEs: Salmonella_mge_freq_heatmap.R
+  - (expected run time: within a few seconds)
+- *Campylobacter* MGEs: Campy_mge_freq_heatmap.R
+  - (expected run time: within a few seconds)
+
+- *Salmonella* VFs: Salmonella_VF.R
+  - (expected run time: within a few seconds)
+- *Campylobacter* VFs: Campy_VF.R
+  - (expected run time: within a few seconds)
+
+##### Supplementary Fig. 3: Core genome phylogenetic tree of *S*. Heidelberg (N=248), including publicly available genomes.
 
 - The figure was created using Phandango by uploading nwk and csv files (https://jameshadfield.github.io/phandango/#/).
   - (expected run time: within a few seconds)
 
-##### Supplementary Fig. 4: Core genome phylogenetic tree of *S*. Schwarzengrund (N=853), including publicly available genomes lacking detailed sample origin information
+##### Supplementary Fig. 4: Core genome phylogenetic tree of *S*. Schwarzengrund (N=853), including publicly available genomes.
 
 - The figure was created using Phandango by uploading nwk and csv files (https://jameshadfield.github.io/phandango/#/).
   - (expected run time: within a few seconds)
 
-##### Supplementary Fig. 5: Core genome phylogenetic tree of *S*. Infantis (N=1061), including publicly available genomes lacking detailed sample origin information.
+##### Supplementary Fig. 5: Core genome phylogenetic tree of *S*. Infantis (N=1061), including publicly available genomes.
 
 - The figure was created using Phandango by uploading nwk and csv files (https://jameshadfield.github.io/phandango/#/).
   - (expected run time: within a few seconds)
