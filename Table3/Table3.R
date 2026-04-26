@@ -13,7 +13,7 @@ temp = paste0("CC or ST\t", "human- vs human-derived isolates\t", "human- vs foo
 # Writing the median and 25th/75th percentiles for each sectoral combination within each serovar
 for (i in CC_or_ST){
 	temp = paste0(temp, i, "\t")
-file_name_CCorST = file_names[grep(i, file_names)]
+	file_name_CCorST = file_names[grep(i, file_names)]
 	for (j in source_pair){
 		target_file = file_name_CCorST[grep(j,file_name_CCorST)]
 		if (length(target_file) == 0){ 
